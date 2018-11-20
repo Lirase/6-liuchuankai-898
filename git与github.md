@@ -12,4 +12,8 @@ github
    首先找到本地的与github建立联系的文件夹，然后右键点击文件夹，在上面找到 git GUI ，进入。
    如果你的本地文件较上次有更新，那么在gitGUI的页面中的左上角的Unstaged Changes栏会出现文件，选定那些文件。点击Stage Changed，发现选定的文件移动到了下面的stage changes栏里。在右方空白区域写好备注，点击commit，文件上传。
    网上到本地：
-   
+   在gitGUI界面上找到Remote，找到fetch from，点击origin，待出现success后关闭。
+   点击merge
+   点击local merge
+   关联好后点merge
+   完毕
